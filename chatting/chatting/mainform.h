@@ -40,7 +40,7 @@ namespace chatting {
 		/// 필수 디자이너 변수입니다.
 		/// </summary>
 		System::ComponentModel::Container ^components;
-
+		 
 #pragma region Windows Form Designer generated code
 		/// <summary>
 		/// 디자이너 지원에 필요한 메서드입니다. 
