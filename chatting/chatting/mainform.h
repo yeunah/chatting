@@ -19,7 +19,7 @@ namespace chatting {
 		{
 			InitializeComponent();
 			//
-			//TODO: 생성자 코드를 여기에 추가합니다.  
+			//TODO: 생성자 코드를 여기에 추가합니다.   
 			//
 		}
 
