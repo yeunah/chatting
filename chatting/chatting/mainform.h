@@ -54,6 +54,6 @@ namespace chatting {
 			this->Padding = System::Windows::Forms::Padding(0);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 		}
-#pragma endregion
+#pragma endregion 
 	};
 }
